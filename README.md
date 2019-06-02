@@ -1,6 +1,6 @@
 # AssosiationRules
 Implementation of Eclat and Apriori algorithms to find association rules in the store with Python language
-![Image description](https://github.com/nrohani/AssosiationRules/blob/master/all.png)
+![Image description](https://github.com/nrohani/AssosiationRules/blob/master/up20.png)
 
 ----------------------------------------------------------------------------------------------------------
 
